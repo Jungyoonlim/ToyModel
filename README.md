@@ -13,6 +13,11 @@ Paper replication of Anthropic's Toy Models of Superposition paper.
 - [ ] Add `LICENSE` file
 - [ ] Add `CONTRIBUTING.md` file
 
+# Dates
+June 12, 2023 - Project Start Date
+- [x] June 13, 2023
+- [ ] June 14, 2023
+- [ ] June 15, 2023
 
 ## Superposition 
 
