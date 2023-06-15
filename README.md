@@ -18,13 +18,4 @@ June 12, 2023 - Project Start Date
 - [x] June 13, 2023
 - [ ] June 14, 2023
 - [ ] June 15, 2023
-
-## Superposition 
-
-When a model represents more than n features in an n-dimensional activation space. aka features still correspond to directions, but the set of interpretable directions is larger than the number of features.
-
-# The Superposition Hypothesis
-
-# Demonstrating Superposition
-
-Whether neural networks 
+- [ ] June 16, 2023
